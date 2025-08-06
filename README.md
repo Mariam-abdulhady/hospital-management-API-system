@@ -86,5 +86,5 @@ docker run -p 3000:3000 --env-file .env hospital-system
 ## Or Run My Image
 
 ```
-docker run -p 3000:3000 --env-file .env diaaqassem1/hospital-system:1.0
+docker run -p 3000:3000 --env-file .env mariamabdulhady/hospital-system:1.0
 ```
