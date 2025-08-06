@@ -58,7 +58,7 @@ EMAIL_PORT=587
 
 ```
 # Clone project
-git clone https://github.com/diaaqassem/Hospital-System-API-Nodejs.git
+git clone https://github.com/Mariam-abdulhady/hospital--management-system.git
 
 # Install dependencies
 npm install
